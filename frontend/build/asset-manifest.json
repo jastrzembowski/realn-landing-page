@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6938487.css",
+    "main.js": "/static/js/main.726f4fa2.js",
+    "static/media/Ik1.webp": "/static/media/Ik1.c0c7f15e7c27d4642bb5.webp",
+    "static/media/ipad.jpg": "/static/media/ipad.2f9bae87805ea1dd41ce.jpg",
+    "static/media/buyhouse.png": "/static/media/buyhouse.23695043a65866c43142.png",
+    "static/media/keys.jpg": "/static/media/keys.8e2a1f243db2aa1728a8.jpg",
+    "static/media/home.jpg": "/static/media/home.10d9aed6a28c2c6e5130.jpg",
+    "index.html": "/index.html",
+    "main.d6938487.css.map": "/static/css/main.d6938487.css.map",
+    "main.726f4fa2.js.map": "/static/js/main.726f4fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6938487.css",
+    "static/js/main.726f4fa2.js"
+  ]
+}
